@@ -26,13 +26,21 @@ Key subjects included are:
 * ### Optimization
     Designing and implementing algorithms to find the best solutions for complex problems. Covers linear, non-linear, integer, and heuristic optimization.
 
-* ### Fuzzy Logic
+* ### Fuzzy Logic & Soft Computing
     Exploring "degrees of truth" rather than a binary (true/false) logic. This section includes models for handling ambiguity and uncertainty in decision-making systems.
 
 * ### Numerical Methods in Finance
     Applying computational techniques to solve quantitative problems in finance. Includes projects on risk modeling, option pricing).
 
+* ### Big Data
 
+* ### Bayesian Networks
+
+* ### Neural Networks
+  
+* ### Categorical Data Analysis and Modeling
+
+* ### Time Series
 
 
 
