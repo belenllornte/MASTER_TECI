@@ -1,7 +1,6 @@
 # MASTER_TECI
 This is my academic portfolio for the joint Master's program (TECI) from Universidad Politécnica de Madrid (UPM) & Universidad Complutense de Madrid (UCM).
 
---
 
 ## Overview
 
